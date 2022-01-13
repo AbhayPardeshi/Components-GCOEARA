@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.news-card{
+  display: flex;
+  /* border: 2px solid black; */
+  /* width:600px; */  
+  background-color: aliceblue;
+  height: 100vh;
+}
+
+.news-heading-div{
+    font-size: 20px;
+  
+}
+
+.news-heading{
+    font-size: larger;
+    padding: 10px;
+}
+
+.news-heading a{
+  text-decoration: none;
+}
+
+.news-more-div{
+  padding-top: 10px;
+}
+.news-more-btn{
+  width: 50px;
+}
+
+.news-container{
+   font-size: 15px;
+   margin: 8px;
+   cursor: pointer;
+   transition: all 0.5s ease-in-out;
+}
+ 
+
+

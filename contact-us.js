@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import "./index.css";
+import "./contact-us.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 function ContactUs() {
@@ -68,7 +68,7 @@ function ContactUs() {
           <br />
 
           {/* Right-Info Section */}
-          <div className="right-column col-md-5 col-sm-12 ">
+          <div className="right-column col-md-6 col-sm-12 ">
             <h4>General Enquries</h4>
             <form className="enquiry-form">
               <label for="InputName" className="form-label">

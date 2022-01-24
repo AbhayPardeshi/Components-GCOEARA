@@ -1,0 +1,33 @@
+body {
+  box-sizing: border-box;
+  overflow-x: hidden;
+}
+
+.contact-us-section .top-heading {
+  font-size: 3rem;
+  text-align: center;
+}
+
+.breadcrumb-nav {
+  font-size: 1.2rem;
+
+}
+
+.enquiry-form{
+  border: 0.1rem solid rgb(143, 143, 143);
+  padding: 1rem 1rem ;
+}
+
+
+.enquiry-form input{
+  margin-bottom: 2rem;
+}
+.enquiry-form .btn{
+   margin-top: 2rem;
+} 
+
+.contact-us-section {
+  margin-left: 1.5rem;
+}
+
+
